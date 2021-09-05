@@ -1,0 +1,20 @@
+table{
+	font-family :sans-serif;
+	border-cllapse:collapse;
+	width:100%;
+	text-align:center;
+	background-color: darksalmon;
+}
+h1{
+	color:pink;
+	text-align:center;
+}
+h4{
+	color:pink;
+	text-align:center;
+}
+h2{
+	color:yellow;
+}
+br{background-color: darksalmon
+color:darksalmon;}
